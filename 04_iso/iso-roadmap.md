@@ -1,19 +1,26 @@
-﻿# Roadmap ISO
+# Roadmap ISO
 
 ## ISO 27001
-GestiÃ³n de seguridad de la informaciÃ³n.
+
+Gestion de seguridad de la informacion.
 
 ## ISO 27701
-ProtecciÃ³n de datos personales.
+
+Proteccion de datos personales.
 
 ## ISO 42001
+
 Gobernanza de inteligencia artificial.
 
 ## ISO 20000
-GestiÃ³n de servicios TI.
+
+Gestion de servicios TI.
 
 ## ISO 22301
+
 Continuidad del negocio.
 
 ## ISO 9001
-Sistema de gestiÃ³n de calidad.
+
+Sistema de gestion de calidad.
+

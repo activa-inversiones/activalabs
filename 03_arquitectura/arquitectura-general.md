@@ -1,4 +1,4 @@
-﻿# Arquitectura ACTIVA ONE
+# Arquitectura ACTIVALABS
 
 ## Arquitectura general
 
@@ -36,7 +36,7 @@ Arquitectura SaaS multi-tenant basada en servicios modulares.
 
 - JWT Authentication
 - RBAC Roles
-- Logs de auditorÃ­a
+- Logs de auditoría
 
 ## Observabilidad
 

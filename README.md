@@ -1,8 +1,8 @@
-Ôªø# \# ACTIVAlabs
+# \# ACTIVAlabs
 
 # 
 
-# ACTIVALABS es una plataforma SaaS modular para automatizaci√≥n comercial, marketing, servicio al cliente y agentes de inteligencia artificial.
+# ACTIVALABS es una plataforma SaaS modular para automatizaciÛn comercial, marketing, servicio al cliente y agentes de inteligencia artificial.
 
 # 
 
@@ -10,7 +10,7 @@
 
 # 
 
-# La plataforma est√° dise√±ada como un sistema SaaS multi-tenant basado en microservicios.
+# La plataforma est· diseÒada como un sistema SaaS multi-tenant basado en microservicios.
 
 # 
 
@@ -36,7 +36,7 @@
 
 # 
 
-# Stack tecnol√≥gico:
+# Stack tecnolÛgico:
 
 # 
 
@@ -68,7 +68,7 @@
 
 # 
 
-# Construir una plataforma SaaS similar a HubSpot o Sprinklr pero enfocada en automatizaci√≥n empresarial y agentes de inteligencia artificial.
+# Construir una plataforma SaaS similar a HubSpot o Sprinklr pero enfocada en automatizaciÛn empresarial y agentes de inteligencia artificial.
 
 # 
 
